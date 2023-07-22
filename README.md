@@ -1,0 +1,1 @@
+Expense tracker app using react and redux for state management
